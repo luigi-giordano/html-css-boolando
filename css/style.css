@@ -3,3 +3,24 @@
   padding: 0;
   box-sizing: border-box;
 }
+.dfex{
+  display: flex;
+}
+.container{
+  display: flex;
+  max-width: 800px;
+  margin: 0 auto;
+ }
+ .container.top{
+  justify-content: space-between;
+  align-items: center;
+ }
+.navbar{
+  display: block;
+  background-color: orange;
+  width: 100%;
+  position: fixed;
+  height:50px;
+  left: 0;
+  right: 0;
+ }
