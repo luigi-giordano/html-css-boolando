@@ -37,3 +37,27 @@
   margin: 20px auto;
   display: block;
 }
+.list-card{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+main .container .card{
+  width: 100%;
+ }
+.card img{
+  width: 100%; 
+}
+.card{
+  width: 33%;
+  padding: 10px;
+  justify-content: space-between;
+}
+.card .brand {
+  font-weight: bold;
+}
+.card .price {
+  color: #ba2c1d;
+  font-weight: bold;
+}
