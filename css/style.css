@@ -24,3 +24,16 @@
   left: 0;
   right: 0;
  }
+ .logo{
+  width: 100px;
+ }
+.navbar span {
+  margin: 10 15px;
+  cursor: pointer;
+  color: aliceblue;
+}
+.logo img {
+  width: 100px;
+  margin: 20px auto;
+  display: block;
+}
