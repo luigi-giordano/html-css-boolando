@@ -3,38 +3,3 @@
   padding: 0;
   box-sizing: border-box;
 }
-.dfex{
-  display: flex;
-}
- .container{
-  display: flex;
-  max-width: 800px;
-  margin: 0 auto;
- }
- .headertop{
-  display: block;
-  background-color: orange;
-  width: 100%;
-  position: fixed;
-  height: 50px;
-  left: 0;
-  right: 0;
- }
- .top{
-  justify-content: space-between;
-  align-items: center;
- }
- .headertop .logo{
-  width: 30px;
-  height: 5px;
-  justify-content: center;
- }
- .logo{
-  width: 100px;
- }
- 
- main .container.card{
-  display: flex;
-  max-width: 100%;
-  align-items: center;
- }
