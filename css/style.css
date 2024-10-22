@@ -11,8 +11,7 @@
 
  .container{
   display: flex;
-  
-  max-width: 900px;
+  max-width: 1000px;
  }
 
  .headertop{
@@ -20,6 +19,8 @@
   width: 100%;
   position: fixed;
   height: 50px;
+  left: 0;
+  right: 0;
  }
 
  .top{
@@ -28,8 +29,8 @@
  }
 
  .headertop .logo{
-  width: 50px;
-  height: 30px;
+  width: 30px;
+  height: 20px;
   justify-content: center;
 
  }
